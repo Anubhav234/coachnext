@@ -1,0 +1,27 @@
+.searchfield{
+    display: block;
+    height: 24px;
+    transition: width .3s ease;
+    width: 118px;
+    font-size: 1rem;
+    line-height: 1.4;
+    letter-spacing: normal;
+    font-family: 'BemboMTPro-Regular';
+    text-align: left;
+    margin-left:24rem;
+    border:none;
+}
+.searchfield:active{
+    border: none;
+    border-bottom: 1px solid black;
+}
+.searchitem{
+    height:88px;
+}
+.jess{
+display:flex;
+align-items: center;
+}
+.titlename{
+    margin-left:34rem;
+}
